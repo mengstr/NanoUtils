@@ -1,7 +1,7 @@
 NanoUtils
 =========
 
-The NanoUtils are a series of small unility / breakout PCBs created by Mats Engstrom @ SmallRoomLabs
+The NanoUtils are a series of small unility / breakout PCBs created by Mats Engstrom @ SmallRoomLabs. All these boards are licensed as CC BY-SA
 
 The following PCBs are currently a part of NanoUtils:
 
@@ -43,3 +43,11 @@ A small keyfob-like tool for checking the dimension of component leads.
 
 A small breakout-style board with a crystal, caps and a resistor on it. This board is suitable for easy add a crystal to an Atmel ATmega or many Microchip PIC-series microcontrollers like the PIC18F2550 having a GND pin next to the two XTAL pins.
 This is a variant of the NU-Xtal board supporting HC-49 crystals in both SMD and thru hole. The load caps can be fitted with either SMD or thru hole caps in two sizes.
+
+***
+
+###NU-Oledy
+![NU-Oledy](https://raw.github.com/SmallRoomLabs/NanoUtils/master/NU-Oledy/Doc/oledy-gerber-250.png)
+
+Breakout boards for experimenting with OLED displays. The board have 32 pads in 0.5, 0.6, 0.62, 0.65, 0.7, 0.8, 0.845 and 1.0 mm pitches.
+
